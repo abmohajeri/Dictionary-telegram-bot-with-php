@@ -1,0 +1,138 @@
+[2017-07-23 19:43:32] bot_log.ERROR: exception 'Longman\TelegramBot\Exception\TelegramException' with message 'Duplicate update received!' in /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/DB.php:495
+Stack trace:
+#0 /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/Telegram.php(458): Longman\TelegramBot\DB::insertRequest(Object(Longman\TelegramBot\Entities\Update))
+#1 /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/Telegram.php(388): Longman\TelegramBot\Telegram->processUpdate(Object(Longman\TelegramBot\Entities\Update))
+#2 /home/abolfaz4/public_html/boter/RealDicBot/hook.php(69): Longman\TelegramBot\Telegram->handle()
+#3 {main} [] []
+[2017-07-23 19:43:34] bot_log.ERROR: exception 'Longman\TelegramBot\Exception\TelegramException' with message 'Duplicate update received!' in /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/DB.php:495
+Stack trace:
+#0 /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/Telegram.php(458): Longman\TelegramBot\DB::insertRequest(Object(Longman\TelegramBot\Entities\Update))
+#1 /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/Telegram.php(388): Longman\TelegramBot\Telegram->processUpdate(Object(Longman\TelegramBot\Entities\Update))
+#2 /home/abolfaz4/public_html/boter/RealDicBot/hook.php(69): Longman\TelegramBot\Telegram->handle()
+#3 {main} [] []
+[2017-07-23 19:45:58] bot_log.ERROR: exception 'Longman\TelegramBot\Exception\TelegramException' with message 'Duplicate update received!' in /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/DB.php:495
+Stack trace:
+#0 /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/Telegram.php(458): Longman\TelegramBot\DB::insertRequest(Object(Longman\TelegramBot\Entities\Update))
+#1 /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/Telegram.php(388): Longman\TelegramBot\Telegram->processUpdate(Object(Longman\TelegramBot\Entities\Update))
+#2 /home/abolfaz4/public_html/boter/RealDicBot/hook.php(69): Longman\TelegramBot\Telegram->handle()
+#3 {main} [] []
+[2017-07-23 19:49:30] bot_log.ERROR: exception 'Longman\TelegramBot\Exception\TelegramException' with message 'Duplicate update received!' in /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/DB.php:495
+Stack trace:
+#0 /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/Telegram.php(458): Longman\TelegramBot\DB::insertRequest(Object(Longman\TelegramBot\Entities\Update))
+#1 /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/Telegram.php(388): Longman\TelegramBot\Telegram->processUpdate(Object(Longman\TelegramBot\Entities\Update))
+#2 /home/abolfaz4/public_html/boter/RealDicBot/hook.php(69): Longman\TelegramBot\Telegram->handle()
+#3 {main} [] []
+[2017-07-23 19:49:59] bot_log.ERROR: exception 'Longman\TelegramBot\Exception\TelegramException' with message 'Duplicate update received!' in /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/DB.php:495
+Stack trace:
+#0 /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/Telegram.php(458): Longman\TelegramBot\DB::insertRequest(Object(Longman\TelegramBot\Entities\Update))
+#1 /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/Telegram.php(388): Longman\TelegramBot\Telegram->processUpdate(Object(Longman\TelegramBot\Entities\Update))
+#2 /home/abolfaz4/public_html/boter/RealDicBot/hook.php(69): Longman\TelegramBot\Telegram->handle()
+#3 {main} [] []
+[2017-07-23 19:51:27] bot_log.ERROR: exception 'Longman\TelegramBot\Exception\TelegramException' with message 'Duplicate update received!' in /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/DB.php:495
+Stack trace:
+#0 /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/Telegram.php(458): Longman\TelegramBot\DB::insertRequest(Object(Longman\TelegramBot\Entities\Update))
+#1 /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/Telegram.php(388): Longman\TelegramBot\Telegram->processUpdate(Object(Longman\TelegramBot\Entities\Update))
+#2 /home/abolfaz4/public_html/boter/RealDicBot/hook.php(69): Longman\TelegramBot\Telegram->handle()
+#3 {main} [] []
+[2017-07-24 12:05:16] bot_log.ERROR: exception 'Longman\TelegramBot\Exception\TelegramException' with message 'Duplicate update received!' in /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/DB.php:495
+Stack trace:
+#0 /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/Telegram.php(458): Longman\TelegramBot\DB::insertRequest(Object(Longman\TelegramBot\Entities\Update))
+#1 /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/Telegram.php(388): Longman\TelegramBot\Telegram->processUpdate(Object(Longman\TelegramBot\Entities\Update))
+#2 /home/abolfaz4/public_html/boter/RealDicBot/hook.php(69): Longman\TelegramBot\Telegram->handle()
+#3 {main} [] []
+[2017-07-24 12:36:32] bot_log.ERROR: exception 'Longman\TelegramBot\Exception\TelegramException' with message 'Duplicate update received!' in /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/DB.php:495
+Stack trace:
+#0 /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/Telegram.php(458): Longman\TelegramBot\DB::insertRequest(Object(Longman\TelegramBot\Entities\Update))
+#1 /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/Telegram.php(388): Longman\TelegramBot\Telegram->processUpdate(Object(Longman\TelegramBot\Entities\Update))
+#2 /home/abolfaz4/public_html/boter/RealDicBot/hook.php(69): Longman\TelegramBot\Telegram->handle()
+#3 {main} [] []
+[2017-08-04 20:03:40] bot_log.ERROR: exception 'Longman\TelegramBot\Exception\TelegramException' with message 'Duplicate update received!' in /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/DB.php:495
+Stack trace:
+#0 /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/Telegram.php(458): Longman\TelegramBot\DB::insertRequest(Object(Longman\TelegramBot\Entities\Update))
+#1 /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/Telegram.php(388): Longman\TelegramBot\Telegram->processUpdate(Object(Longman\TelegramBot\Entities\Update))
+#2 /home/abolfaz4/public_html/boter/RealDicBot/hook.php(69): Longman\TelegramBot\Telegram->handle()
+#3 {main} [] []
+[2017-08-04 20:04:12] bot_log.ERROR: exception 'Longman\TelegramBot\Exception\TelegramException' with message 'Duplicate update received!' in /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/DB.php:495
+Stack trace:
+#0 /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/Telegram.php(458): Longman\TelegramBot\DB::insertRequest(Object(Longman\TelegramBot\Entities\Update))
+#1 /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/Telegram.php(388): Longman\TelegramBot\Telegram->processUpdate(Object(Longman\TelegramBot\Entities\Update))
+#2 /home/abolfaz4/public_html/boter/RealDicBot/hook.php(69): Longman\TelegramBot\Telegram->handle()
+#3 {main} [] []
+[2017-08-04 20:04:37] bot_log.ERROR: exception 'Longman\TelegramBot\Exception\TelegramException' with message 'Duplicate update received!' in /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/DB.php:495
+Stack trace:
+#0 /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/Telegram.php(458): Longman\TelegramBot\DB::insertRequest(Object(Longman\TelegramBot\Entities\Update))
+#1 /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/Telegram.php(388): Longman\TelegramBot\Telegram->processUpdate(Object(Longman\TelegramBot\Entities\Update))
+#2 /home/abolfaz4/public_html/boter/RealDicBot/hook.php(69): Longman\TelegramBot\Telegram->handle()
+#3 {main} [] []
+[2017-08-04 20:06:56] bot_log.ERROR: exception 'Longman\TelegramBot\Exception\TelegramException' with message 'Duplicate update received!' in /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/DB.php:495
+Stack trace:
+#0 /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/Telegram.php(458): Longman\TelegramBot\DB::insertRequest(Object(Longman\TelegramBot\Entities\Update))
+#1 /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/Telegram.php(388): Longman\TelegramBot\Telegram->processUpdate(Object(Longman\TelegramBot\Entities\Update))
+#2 /home/abolfaz4/public_html/boter/RealDicBot/hook.php(69): Longman\TelegramBot\Telegram->handle()
+#3 {main} [] []
+[2017-08-10 21:36:16] bot_log.ERROR: exception 'Longman\TelegramBot\Exception\TelegramException' with message 'Duplicate update received!' in /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/DB.php:495
+Stack trace:
+#0 /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/Telegram.php(458): Longman\TelegramBot\DB::insertRequest(Object(Longman\TelegramBot\Entities\Update))
+#1 /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/Telegram.php(388): Longman\TelegramBot\Telegram->processUpdate(Object(Longman\TelegramBot\Entities\Update))
+#2 /home/abolfaz4/public_html/boter/RealDicBot/hook.php(69): Longman\TelegramBot\Telegram->handle()
+#3 {main} [] []
+[2017-08-10 21:37:59] bot_log.ERROR: exception 'Longman\TelegramBot\Exception\TelegramException' with message 'Duplicate update received!' in /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/DB.php:495
+Stack trace:
+#0 /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/Telegram.php(458): Longman\TelegramBot\DB::insertRequest(Object(Longman\TelegramBot\Entities\Update))
+#1 /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/Telegram.php(388): Longman\TelegramBot\Telegram->processUpdate(Object(Longman\TelegramBot\Entities\Update))
+#2 /home/abolfaz4/public_html/boter/RealDicBot/hook.php(69): Longman\TelegramBot\Telegram->handle()
+#3 {main} [] []
+[2017-08-11 07:05:04] bot_log.ERROR: exception 'Longman\TelegramBot\Exception\TelegramException' with message 'Duplicate update received!' in /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/DB.php:495
+Stack trace:
+#0 /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/Telegram.php(458): Longman\TelegramBot\DB::insertRequest(Object(Longman\TelegramBot\Entities\Update))
+#1 /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/Telegram.php(388): Longman\TelegramBot\Telegram->processUpdate(Object(Longman\TelegramBot\Entities\Update))
+#2 /home/abolfaz4/public_html/boter/RealDicBot/hook.php(69): Longman\TelegramBot\Telegram->handle()
+#3 {main} [] []
+[2017-08-11 07:07:47] bot_log.ERROR: exception 'Longman\TelegramBot\Exception\TelegramException' with message 'Duplicate update received!' in /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/DB.php:495
+Stack trace:
+#0 /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/Telegram.php(458): Longman\TelegramBot\DB::insertRequest(Object(Longman\TelegramBot\Entities\Update))
+#1 /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/Telegram.php(388): Longman\TelegramBot\Telegram->processUpdate(Object(Longman\TelegramBot\Entities\Update))
+#2 /home/abolfaz4/public_html/boter/RealDicBot/hook.php(69): Longman\TelegramBot\Telegram->handle()
+#3 {main} [] []
+[2017-08-11 07:09:03] bot_log.ERROR: exception 'Longman\TelegramBot\Exception\TelegramException' with message 'Duplicate update received!' in /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/DB.php:495
+Stack trace:
+#0 /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/Telegram.php(458): Longman\TelegramBot\DB::insertRequest(Object(Longman\TelegramBot\Entities\Update))
+#1 /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/Telegram.php(388): Longman\TelegramBot\Telegram->processUpdate(Object(Longman\TelegramBot\Entities\Update))
+#2 /home/abolfaz4/public_html/boter/RealDicBot/hook.php(69): Longman\TelegramBot\Telegram->handle()
+#3 {main} [] []
+[2017-08-11 09:02:03] bot_log.ERROR: exception 'Longman\TelegramBot\Exception\TelegramException' with message 'Duplicate update received!' in /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/DB.php:495
+Stack trace:
+#0 /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/Telegram.php(458): Longman\TelegramBot\DB::insertRequest(Object(Longman\TelegramBot\Entities\Update))
+#1 /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/Telegram.php(388): Longman\TelegramBot\Telegram->processUpdate(Object(Longman\TelegramBot\Entities\Update))
+#2 /home/abolfaz4/public_html/boter/RealDicBot/hook.php(69): Longman\TelegramBot\Telegram->handle()
+#3 {main} [] []
+[2017-08-11 09:06:42] bot_log.ERROR: exception 'Longman\TelegramBot\Exception\TelegramException' with message 'Duplicate update received!' in /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/DB.php:495
+Stack trace:
+#0 /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/Telegram.php(458): Longman\TelegramBot\DB::insertRequest(Object(Longman\TelegramBot\Entities\Update))
+#1 /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/Telegram.php(388): Longman\TelegramBot\Telegram->processUpdate(Object(Longman\TelegramBot\Entities\Update))
+#2 /home/abolfaz4/public_html/boter/RealDicBot/hook.php(69): Longman\TelegramBot\Telegram->handle()
+#3 {main} [] []
+[2017-08-11 09:07:38] bot_log.ERROR: exception 'Longman\TelegramBot\Exception\TelegramException' with message 'Duplicate update received!' in /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/DB.php:495
+Stack trace:
+#0 /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/Telegram.php(458): Longman\TelegramBot\DB::insertRequest(Object(Longman\TelegramBot\Entities\Update))
+#1 /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/Telegram.php(388): Longman\TelegramBot\Telegram->processUpdate(Object(Longman\TelegramBot\Entities\Update))
+#2 /home/abolfaz4/public_html/boter/RealDicBot/hook.php(69): Longman\TelegramBot\Telegram->handle()
+#3 {main} [] []
+[2017-08-11 09:08:53] bot_log.ERROR: exception 'Longman\TelegramBot\Exception\TelegramException' with message 'Duplicate update received!' in /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/DB.php:495
+Stack trace:
+#0 /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/Telegram.php(458): Longman\TelegramBot\DB::insertRequest(Object(Longman\TelegramBot\Entities\Update))
+#1 /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/Telegram.php(388): Longman\TelegramBot\Telegram->processUpdate(Object(Longman\TelegramBot\Entities\Update))
+#2 /home/abolfaz4/public_html/boter/RealDicBot/hook.php(69): Longman\TelegramBot\Telegram->handle()
+#3 {main} [] []
+[2017-08-11 13:36:03] bot_log.ERROR: exception 'Longman\TelegramBot\Exception\TelegramException' with message 'Duplicate update received!' in /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/DB.php:495
+Stack trace:
+#0 /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/Telegram.php(458): Longman\TelegramBot\DB::insertRequest(Object(Longman\TelegramBot\Entities\Update))
+#1 /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/Telegram.php(388): Longman\TelegramBot\Telegram->processUpdate(Object(Longman\TelegramBot\Entities\Update))
+#2 /home/abolfaz4/public_html/boter/RealDicBot/hook.php(69): Longman\TelegramBot\Telegram->handle()
+#3 {main} [] []
+[2017-08-11 19:55:00] bot_log.ERROR: exception 'Longman\TelegramBot\Exception\TelegramException' with message 'Duplicate update received!' in /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/DB.php:495
+Stack trace:
+#0 /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/Telegram.php(458): Longman\TelegramBot\DB::insertRequest(Object(Longman\TelegramBot\Entities\Update))
+#1 /home/abolfaz4/public_html/boter/RealDicBot/vendor/longman/telegram-bot/src/Telegram.php(388): Longman\TelegramBot\Telegram->processUpdate(Object(Longman\TelegramBot\Entities\Update))
+#2 /home/abolfaz4/public_html/boter/RealDicBot/hook.php(69): Longman\TelegramBot\Telegram->handle()
+#3 {main} [] []
