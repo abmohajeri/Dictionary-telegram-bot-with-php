@@ -111,7 +111,7 @@ class TranslateCommand extends SystemCommand
                 $qwe    = $notes['name'];
                 $pdo = DB::getPdo();
                 $pdo->exec("set names utf8");
-               
+               $qwe=strtolower($qwe);
                 require 'simple_html_dom.php';
                 $curl = curl_init(); 
 curl_setopt($curl, CURLOPT_URL, "http://dictionary.cambridge.org/us/dictionary/english/$qwe");  
@@ -125,8 +125,8 @@ $str = curl_exec($curl);
 curl_close($curl);  
 $html= str_get_html($str); 
 foreach($html->find('span.audio_play_button') as $e){
-     $data['text'] = $e->attr['data-src-mp3'];
-    $result = Request::sendMessage($data);
+     $data['audio'] = $e->attr['data-src-mp3'];
+    $result = Request::sendAudio($data);
 }
 $qwee=str_replace(" ","+",$qwe);
 $curl = curl_init(); 
@@ -168,7 +168,7 @@ if(strlen($qwe) != mb_strlen($qwe, 'utf-8')) {
         Request::sendMessage($data);
     }
 }else {
-        $qwe=strtolower($qwe);
+        
         $sql = $pdo->prepare("SELECT `PersianWord` FROM `EnglishPersianWordDatabase` WHERE `EnglishWord`='" . $qwe . "' ");
         $sql->execute();
        

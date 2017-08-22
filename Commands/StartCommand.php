@@ -62,7 +62,7 @@ class StartCommand extends SystemCommand
         //Preparing Response
         $data = [
             'chat_id' => $chat_id,
-            'text' => "سلام خوش آمید",
+            'text' => "سلام خوش آمدید برای ترجمه /translate را وارد نمایید.",
         ];
     
 
